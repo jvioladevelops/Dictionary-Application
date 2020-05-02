@@ -1,1 +1,3 @@
-Dictionary App
+Dictionary Application
+
+Includes user input validation.
